@@ -1,6 +1,6 @@
-# FOCUS-TIMER 🎀
+# FOCUS-TIMER 
 
-A highly tailored productivity web app designed to balance focus sessions and rest cycles with a soft visual design.
+A productivity web app designed to balance focus sessions and rest cycles with a soft visual design.
 
 ## 🔗 Live Deployment
 * **Live Link:** [INSERT YOUR LIVE NETLIFY DEPLOYED URL HERE]
@@ -40,7 +40,7 @@ Follow these exact steps to clone and boot the workspace locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Florence-code-hub/Focus-timer.git
    ```
 2. **Navigate into the folder structure:**
    ```bash
@@ -52,6 +52,16 @@ Follow these exact steps to clone and boot the workspace locally:
    ```
 4. **Launch the local preview server:**
    ```bash
-   npm run dev
+   npm
+   run dev
    ```
 5. Open your local browser to `http://localhost:5173`.
+
+
+
+
+
+
+
+
+
