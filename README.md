@@ -55,7 +55,7 @@ Follow these exact steps to clone and boot the workspace locally:
    npm
    run dev
    ```
-5. Open your local browser to `http://localhost:5173`.
+5. Open your local browser to `http://localhost:5173`. 
 
 
 
