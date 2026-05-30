@@ -3,7 +3,7 @@
 A productivity web app designed to balance focus sessions and rest cycles with a soft visual design.
 
 ## 🔗 Live Deployment
-* **Live Link:** [INSERT YOUR LIVE NETLIFY DEPLOYED URL HERE]
+* **Live Link:**(https://focus-timer-4zm8q2mek-florence-code-hubs-projects.vercel.app)
 
 ## 🎯 Problem Statement & Purpose
 * **The Problem:**
@@ -19,11 +19,12 @@ A productivity web app designed to balance focus sessions and rest cycles with a
 
 ## What it does
 * **Custom Time Management**: A default 10-minute focus timer that safely falls back to a clean 10-minute slot if no custom minutes are specified when creating a task.
-* **Automated Mode Switching**: Offers 5-minute short breaks and 15-minute long breaks that trigger and start counting down automatically without disruptive alert pop-ups.
-* **Dynamic Control Mechanics**: Full flexibility to start, pause, and reset the timer loop manually at any second.
+* **Automated Mode Switching**: Offers 5-minute short breaks and 15-minute long breaks that trigger and start counting down automatically if set to task.
+* * **Dynamic Control Mechanics**: Full flexibility to start, pause, and reset the timer loop manually at any second.
 * **Precise Telemetry Counters**: Accurately tracks total focus minutes second-by-second and counts exactly how many focus sessions you have conquered (completely ignoring rest periods).
 * **Smart Agenda Checklist**: Add tasks you want to work on, set their unique duration, and specify a break preference per task. Checking off completed tasks moves them instantly to sit directly underneath the active unchecked ones.
-* **Premium Theme Styling**: Features a high-fidelity soft peach and strawberry cream layout system with a centered capital header title and proverbs banner text in bold solid black.
+  Note: Default task when there is none in queue: "Maintain Beauty"
+* **Premium Theme Styling**: Features a soft peach and strawberry cream layout system with a centered capital header title and proverbs banner text in bold solid black.
 
 ## 🛠️ Framework Choice & Considerations
 This application was deliberately built using **React**.
